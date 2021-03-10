@@ -7,7 +7,7 @@ Scala Assignment 2 by Shivam Gupta
     * ### ElementsOfList
       List questions
     * ### Stack.scala
-      Contains Stack Implementation with immutable list
+      Contains Stack Implementation using immutable list
     * ### Queue.scala
-      Contains Queue Implementation with immutable list
+      Contains Queue Implementation using immutable list
     
